@@ -1,3 +1,8 @@
+#Project2
+#mayankmanipriyadarshi
+#remove_extra_function
+#time_out_set_random_time
+#delete
 function hasBlacklistKeywords(bio) {
 	const blacklist = [
 		'thug',
