@@ -17,3 +17,4 @@ Clone the project and cd
 - Run the script
 
 
+To use the filter type in the keywords within '' in the function.
