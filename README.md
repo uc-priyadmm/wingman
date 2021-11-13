@@ -1,5 +1,5 @@
 
-# Automations is a necessary evil, in the space of head to head competition being able to automate your work is a huge advantage.
+# Automation is a necessary evil, in the space of head to head competition being able to automate your work is a huge advantage.
 
 I was recently asked by a friend if I could help him get more likes on tinder and okcupid, after giving him a brief lecture about the importance of independence and suggesting him a few books on stoicism, I started making a script which could auto like profiles on tinder and Okcupid and also left swipe users based on keywords in the Bio. I hope this would really help the boys. Paired with a gold account, this strategy will make you blow up!
 
